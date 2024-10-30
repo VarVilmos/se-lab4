@@ -1,0 +1,6 @@
+# ha nincs soronkovetkezoben, de van masikban akkor tuzeljen
+GT4500,1,1,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

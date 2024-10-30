@@ -1,0 +1,4 @@
+# Create a ship with primary store that will fail and one that wont
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

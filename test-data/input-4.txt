@@ -1,0 +1,6 @@
+# hiba volt attol meg ne lojje a masikat
+GT4500,1,1,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
